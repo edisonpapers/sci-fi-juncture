@@ -37,7 +37,7 @@ dated c. 1665. Going by various names over the centuries, it became known by its
 ## Map
 
 The work has been in the collection of the Mauritshuis in The Hague since 1902 and has been the subject of various 
-literary treatments. In 2006, the Dutch public selected it as the most beautiful painting in the Netherlands. Were the Dutch <span ve-entity title="Black Lives Matter Movement" eid="Q19600530">human rights activists</span>? How about Thomas Alva Edison?
+literary treatments. In 2006, the Dutch public selected it as the most beautiful painting in the Netherlands. Were the Dutch <span ve-entity title="Black Lives Matter Movement" eid="Q19600530">human rights activists</span>? How about Thomas Alva Edison? <span ve-entity title="Thomas A. Edison" eid="Q8743" > or TA Edison?</span?>
 <param ve-map center="Q36600" zoom="11" prefer-geojson>
 
 ## Multiple viewers
