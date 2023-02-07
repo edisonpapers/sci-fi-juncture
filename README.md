@@ -13,7 +13,7 @@
 <param ve-entity eid="Q41264"> <!-- Johannes Vermeer -->
 <param ve-entity eid="Q221092"> <!-- Mauritshuis -->
 <param ve-entity eid="Q36600"> <!-- The Hague -->
-<param ve-entity eid="Q8743"> <!-- Thomas A. Edison -->
+<param ve-entity eid="Q8743"> <!-- Thomas Alva Edison -->
 
 # Sample visual essay
 
@@ -37,7 +37,7 @@ dated c. 1665. Going by various names over the centuries, it became known by its
 ## Map
 
 The work has been in the collection of the Mauritshuis in The Hague since 1902 and has been the subject of various 
-literary treatments. In 2006, the Dutch public selected it as the most beautiful painting in the Netherlands. Were the Dutch <span ve-entity title="Black Lives Matter Movement" eid="Q19600530">human rights activists</span>? How about Thomas A. Edison?
+literary treatments. In 2006, the Dutch public selected it as the most beautiful painting in the Netherlands. Were the Dutch <span ve-entity title="Black Lives Matter Movement" eid="Q19600530">human rights activists</span>? How about Thomas Alva Edison?
 <param ve-map center="Q36600" zoom="11" prefer-geojson>
 
 ## Multiple viewers
