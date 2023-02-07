@@ -23,14 +23,10 @@ In this exhibit we explore the ways in which Edison, during his lifetime, specul
 
 <param ve-graphic img="https://edison.rutgers.edu/images/sci-fi/scifi-lookingbackward02.jpeg">
 
-# The Wizard of Menlo Park
-Almost as soon as Thomas Edison became famous for his invention of the phonograph in early 1878 journalists and writers began to depict him as the “Inventor of the Age,” capable of producing any invention he set his mind to and as the embodiment of the forces of science and technology that were transforming the modern world. Some of the earliest accounts played humorously with his growing legend. The first was New York Daily Graphic reporter William Croffut’s fantastical April Fool’s story of Edison’s machine for manufacturing food out of “air, water and common earth.”  It was Crouffut who dubbed Edison the "Wizard of Menlo Park."
+## The Wizard of Menlo Park
+Almost as soon as Thomas Edison became famous for his invention of the phonograph in early 1878 journalists and writers began to depict him as the [“Inventor of the Age,”](http://edisondigital.rutgers.edu/document/MBSB10561) capable of producing any invention he set his mind to and as the embodiment of the forces of science and technology that were transforming the modern world. Some of the earliest accounts played humorously with his growing legend. The first was New York Daily Graphic reporter William Croffut’s fantastical [April Fool’s](http://edisondigital.rutgers.edu/document/MBSB10470X) story of Edison’s machine for manufacturing food out of “air, water and common earth.”  It was Crouffut who dubbed Edison the ["Wizard of Menlo Park."](http://edisondigital.rutgers.edu/document/MBSB10500X)
 
-<param ve-image 
-       label="Girl with a Pearl Earring" 
-       description="painting by Johannes Vermeer" 
-       license="public domain" 
-       url="https://upload.wikimedia.org/wikipedia/commons/0/0f/1665_Girl_with_a_Pearl_Earring.jpg">
+<param ve-graphic img="https://edison.rutgers.edu/images/sci-fi/sci-fi-wizard01.jpeg">
 
 ## Map
 
