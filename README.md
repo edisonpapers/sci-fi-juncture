@@ -21,7 +21,7 @@ In this exhibit we explore the ways in which Edison, during his lifetime, specul
 
 
 
-<param ve-graphic="https://edison.rutgers.edu/images/sci-fi/scifi-lookingbackward02.jpeg">
+<param ve-graphic img="https://edison.rutgers.edu/images/sci-fi/scifi-lookingbackward02.jpeg">
 
 # Basic usage
 
