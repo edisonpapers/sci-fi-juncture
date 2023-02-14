@@ -43,3 +43,10 @@ Villiers describes the transformation of Edison from man to myth In the preface 
 <param ve-graphic img="https://npgallery.nps.gov/EDIS/GetAsset/e860efd487064363908948af44adea73/original.jpg?">
 Test Edison house image.
 
+Diary test
+Eh
+I am trying
+
+<param ve-image manifest="https://edisondigital.rutgers.edu/document/MA001">
+
+
