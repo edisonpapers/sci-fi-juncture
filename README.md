@@ -47,6 +47,7 @@ Diary test<br>
 Page1<br>
 I am testing something
 
-<param ve-image manifest="https://edisondigital.rutgers.edu/iiif/MA001">
+<param ve-image manifest="https://edisondigital.rutgers.edu/iiif/MA001"
+seq="2">
 
 
