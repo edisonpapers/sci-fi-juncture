@@ -48,6 +48,8 @@ Page1<br>
 I am testing something
 [id1]: ## "Thisis a pop-over/tooptip"
 [This line should][id1] have a pop-over/tooptip over the first three words. 
+This is a [hover text](## "your hover text") example.
+
 
 <param ve-image manifest="https://edisondigital.rutgers.edu/iiif/MA001"
 seq="2">
