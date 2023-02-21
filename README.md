@@ -10,8 +10,7 @@
      are thus available in all text.  Entity identifiers (QIDs) can be found in either
      Wikipedia or Wikidata (https://www.wikidata.org)> -->
 
-<param title eid="Q8743"> <!-- Thomas Alva Edison -->
-<param ve-entity eid="Q8743" title="Edison">
+<param title="Thomas Alva Edison" eid="Q8743" aliases="Edison">
 
 # Introduction
 
