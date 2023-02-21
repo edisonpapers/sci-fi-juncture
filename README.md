@@ -57,6 +57,6 @@ If I write text can I hover a title over it?{ title="Important information" }
 
 
 <param ve-image manifest="https://edisondigital.rutgers.edu/iiif/MA001"
-seq="2">
+seq="5">
 
 
