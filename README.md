@@ -52,6 +52,8 @@ This is a [hover text](## "your hover text") example.
 
 If I write text can I hover a title over it?{ title="Important information" }
 
+*[Text on page]: Pop up tool tip info
+
 
 <param ve-image manifest="https://edisondigital.rutgers.edu/iiif/MA001"
 seq="2">
