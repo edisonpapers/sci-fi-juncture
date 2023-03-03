@@ -3,7 +3,7 @@
 <param ve-config 
        title="Edison Sci-Fi Exhibit"
        author="The Edison Papers Project"
-       banner="https://iiif.juncture-digital.org/banner/?url=https://edison.rutgers.edu/images/sci-fi/scifi-lookingbackward02.jpeg" 
+       banner="https://iiif.juncture-digital.org/banner/?url=[https://edison.rutgers.edu/images/sci-fi/scifi-lookingbackward02.jpeg](https://commons.wikimedia.org/wiki/File:S%C3%A3o_Paulo_city_%28Bela_Vista%29_%28banner_esVoy%29.jpg)" 
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
